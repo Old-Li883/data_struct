@@ -1,0 +1,8 @@
+{
+    "version": "2.0.0",
+    "command": "g++",
+    "args": [
+        "-g",
+        "${workspaceRoot}/ensure_tree.cpp"
+    ],
+}
